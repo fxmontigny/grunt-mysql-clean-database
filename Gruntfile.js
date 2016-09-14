@@ -18,7 +18,7 @@ module.exports = function (grunt) {
             tests: ['tmp']
         },
 
-        db_clear: {
+        mysql_clean: {
         },
 
         // Unit tests.

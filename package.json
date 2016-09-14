@@ -1,7 +1,7 @@
 {
   "name": "grunt-mysql-clean-database",
   "description": "Delete tables of database with grunt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/fxmontigny/grunt-mysql-clean-database",
   "author": "François-Xavier Montigny",
   "repository": {

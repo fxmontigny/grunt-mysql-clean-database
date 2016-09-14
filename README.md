@@ -22,11 +22,11 @@ grunt.loadNpmTasks('grunt-mysql-clean-database');
 ## Documentation
 
 ### Overview
-In your project's Gruntfile, add a section named `db_clean` to the data object passed into `grunt.initConfig()`.
+In your project's Gruntfile, add a section named `mysql_clean` to the data object passed into `grunt.initConfig()`.
 
 ```js
 grunt.initConfig({
-  db_clean: {
+  mysql_clean: {
     dev1: {
         host: "",
         user: "",
@@ -49,5 +49,5 @@ grunt.initConfig({
 
 grunt.loadNpmTasks('grunt-mysql-clean-database');
 
-grunt.registerTask('default', ['db_clean:dev1']);
+grunt.registerTask('default', ['mysql_clean:dev1']);
 ```

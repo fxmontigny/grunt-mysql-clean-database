@@ -4,7 +4,7 @@ var shell = require('shelljs');
 
 module.exports = function (grunt) {
 
-    grunt.registerMultiTask('db_clean', 'Clean database', function () {
+    grunt.registerMultiTask('mysql_clean', 'Clean database', function () {
         // Options
         var task_options = this.options({});
 
