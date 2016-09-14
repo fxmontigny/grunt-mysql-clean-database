@@ -1,5 +1,7 @@
 # Grunt (MYSQL) Database cleaning
 
+[![npm version](https://badge.fury.io/js/grunt-mysql-clean-database.svg)](https://www.npmjs.com/package/grunt-mysql-clean-database)
+
 **IMPORTANT NOTE**: the authors of this Plugin assume **no responsibility** for any actions which result from the usage of this script. You use it entirely *at your own risk*. It is *strongly* recommended that you test the script in a non-critical environment prior to rolling out for production use. *Always* manually backup your local and remote databases before using the script for the first time. No support can be provided for critical situations.
 
 ## Getting Started
