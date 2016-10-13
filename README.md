@@ -51,3 +51,6 @@ grunt.loadNpmTasks('grunt-mysql-clean-database');
 
 grunt.registerTask('default', ['mysql_clean:dev1']);
 ```
+
+# Used by
+[caravel.design](https://www.caravel.design) 
